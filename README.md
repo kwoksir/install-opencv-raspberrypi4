@@ -31,25 +31,31 @@ Install QT GUI related packages
 
 ```sudo apt-get install -y python3-pyqt5```
 
-Update pip package
+## Install Python related packages
+
+### Update pip package
 
 ```python3 -m pip install --upgrade pip```
 
-Update Numpy package
+### Update Numpy package
 
 ```python3 -m pip install --upgrade numpy==1.21.2```
 
-Install Matplotlib package
+### Install Matplotlib package
 
 ```python3 -m pip install matplotlib```
 
-Install imutils package
+### Install imutils package
 
 ```python3 -m pip install imutils```
 
-Install OpenCV with version 4.5.3.56
+## Install OpenCV package
+
+Install OpenCV with version 4.5.3.56 (has been tested and compatible with numpy 1.21.2)
 
 ```python3 -m pip install opencv-python==4.5.3.56```
+
+## Install Mediapipe package
 
 Install Mediapipe for Raspberry Pi 4
 
