@@ -1,4 +1,4 @@
-# install-opencv-raspberrypi4
+# Install OpenCV & Mediapipe on Raspberry Pi4B
 
 ### Run on Raspberry Pi4B 4GB and based on Debian Buster (Raspberry Pi OS (Legacy))
 ![cap](https://user-images.githubusercontent.com/61585411/168199774-9175d642-9768-4f37-adfd-bc575da97876.png)
