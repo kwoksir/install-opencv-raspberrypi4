@@ -4,6 +4,9 @@
 ![cap](https://user-images.githubusercontent.com/61585411/168199774-9175d642-9768-4f37-adfd-bc575da97876.png)
 ### Python version == 3.7.3
 
+[Install OpenCV & Mediapipe on Raspberry Pi 4B](https://www.youtube.com/watch?v=j11CKdGFOWg) -YouTube demo
+
+
 ## Update and upgrade the Raspberry Pi OS
 ```sudo apt-get update```
 
